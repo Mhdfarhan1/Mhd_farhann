@@ -60,13 +60,14 @@
 ### 📊 Statistik GitHub:
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nama-pengguna-github-anda&show_icons=true&locale=id&layout=compact&theme=dark" alt="nama-pengguna-github-anda" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mhdfarhan1&show_icons=true&locale=id&layout=compact&theme=dark" alt="Mhdfarhan1" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nama-pengguna-github-anda&show_icons=true&locale=id&theme=dark" alt="nama-pengguna-github-anda" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhdfarhan1&show_icons=true&locale=id&theme=dark" alt="Mhdfarhan1" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nama-pengguna-github-anda&theme=dark" alt="nama-pengguna-github-anda" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhdfarhan1&theme=dark" alt="Mhdfarhan1" />
 </p>
+
 
 ---
