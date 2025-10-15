@@ -1,4 +1,4 @@
-<h1 align="center">Hai 👋, Saya Muhamad Farhan Farhan</h1>
+<h1 align="center">Hai 👋, Saya Muhamad Farhan</h1>
 <h3 align="center">Seorang Fullstack Web Developer yang bersemangat dari Indonesia</h3>
 
 <p align="center">
